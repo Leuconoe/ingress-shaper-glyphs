@@ -65,7 +65,7 @@ th.node_count {
 }
 
 .contents {
-  width: 60%;
+  width: 96%;
   margin: 0 auto;
 }
 
@@ -80,7 +80,7 @@ h1 {
 
 #table .count-header {
   background-color: #BBB;
-  font-size: 12px;
+  font-size: 14px;
   color: 0;
   padding: 4px 8px;
   margin-bottom: 20px;
@@ -93,7 +93,8 @@ h1 {
 }
 
 #table ul.sequence {
-  margin: 0 auto 60px auto;
+  margin: 0 auto 20px auto;
+  vertical-align: inherit;
 }
 
 #table ul li .word {
@@ -102,15 +103,14 @@ h1 {
 }
 
 #table ul li .string {
-  font-size: 12px;
+  font-size: 14px;
 }
 #table ul li .desc {
-  font-size: 10px;
+  font-size: 12px;
 }
 
 
 #table ul li img {
-  width: 64px;
-  height: 64px;
+  width: 96px;
+  height: 96px;
 }
-
