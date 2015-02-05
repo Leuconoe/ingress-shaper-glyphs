@@ -104,6 +104,9 @@ h1 {
 #table ul li .string {
   font-size: 12px;
 }
+#table ul li .desc {
+  font-size: 10px;
+}
 
 
 #table ul li img {

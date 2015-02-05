@@ -62,6 +62,7 @@ $(function () {
 			tag += '<li>';
 			tag += '<div class="word">';
 			tag += '<div><img src="' + baseUrl + '/images/' + code + '.png" width="64" height="64"></div>';
+			tag += '<div class="desc">' + info['en'] + '</div>';
 			tag += '<div class="string">' + conv_word + '</div>';
 			tag += '</div>';
 			tag += '</li>';
